@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "dotnet-devops-server": {
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "/Users/gautam/Documents/Projects/MCP-Server-DotNet/EnterpriseDevOpsMCP.csproj"
+      ]
+    }
+  }
+}

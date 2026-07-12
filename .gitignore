@@ -1,0 +1,40 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln.iml
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local environment
+.env
+.env.local
+appsettings.Development.json
+
+# Rider
+.idea/
+*.sln.iml
+
+# Output
+*.log
+dist/
+publish/
