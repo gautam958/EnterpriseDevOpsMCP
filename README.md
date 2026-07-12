@@ -50,7 +50,7 @@ Add the following to your MCP configuration file (typically `~/.config/claude/cl
 
 ```json
 {
-  "mcpServers": {
+  "dotnet-devops-server": {
     "dotnet-devops-server": {
       "command": "dotnet",
       "args": [
@@ -90,6 +90,8 @@ Retrieves system diagnostics information including memory usage and active threa
 ```
 "Can you check the system diagnostics?"
 ```
+
+![alt text](image.png)
 
 **Returns**:
 
